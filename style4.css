@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #141313;
+}
+img {
+    height: 180px;
+    width: 450px;
+    display: block;
+    margin: 300px 0px 0px 750px;
+    border-radius: 150px;
+}
+.navbar {
+    height: 50px;
+    width: 850px;
+    border: 2px solid #8f8989;
+    margin: 0px 0px 0px 550px;
+    border-radius: 50px;
+}
+.one {
+    margin-left: 18px;
+    color: #8f8989;
+    font-size: 22px;
+}
+.two {
+    color: #2626d8;
+    margin-left: 10px;
+    font-size: 28px; 
+}
+.three {
+    color: #2626d8;
+    font-size: 28px; 
+    margin-left: 10px; 
+}
+input {
+    height: 48px;
+    color: white;
+    width: 700px;
+    margin-left: 5px;
+    background-color: #141313;
+}

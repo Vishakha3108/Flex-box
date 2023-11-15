@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.alert {
+    /* padding: 20px; */
+    background-color: hsl(0, 87%, 78%);
+    color: #b80606;
+}
+.one {
+    margin-left: 700px;
+    /* font-size: 200px; */
+    line-height: 40px;
+    cursor: pointer;
+    transform: 0.3s;
+}

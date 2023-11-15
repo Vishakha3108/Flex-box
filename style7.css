@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+nav {
+    display: flex;
+}
+img {
+    height: 70px;
+    margin-left: 30px;
+    /* width: 50px; */
+}
+.pera {
+    margin-left: 830px;
+    margin-top: 20px;
+    color: #1010f3;
+    font-size: 21px;
+}
+.one {
+    margin-left: 150px;
+    height: 50px;
+    width: 130px;
+    color: #1010f3;
+    font-size: 21px;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+.two {
+    margin-left: 150px;
+    height: 50px;
+    width: 230px;
+    background-color: #1010f3;
+    color: white;
+    font-size: 21px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.line {
+    height: 0.2px;
+    width: 100vw;
+    background-color: rgb(156, 140, 140);
+}
+.container {
+    margin: 200px 0px 0px 50px;
+    display: inline-block;
+    
+    /* width: 900px; */
+}
+h1 {
+    width: 370px;
+    font-size: 50px;
+}
+.pera2 {
+    margin-top: 25px;
+    width: 550px;
+    font-size: 21px;
+}
+.pera3 {
+    margin-left: 300px;
+    margin-top: -32px;
+    color: #1010f3;
+    font-size: 21px;
+
+}
+.three {
+    /* margin-left: 150px; */
+    height: 50px;
+    /* display: inline-block; */
+    width: 230px;
+    background-color: #1010f3;
+    color: white;
+    font-size: 21px;
+    border-radius: 8px;
+    margin-top: 60px;
+
+}
+.main {
+    margin-left: 800px;
+    margin-top: -520px;
+    height: 670px;
+    width: 980px;
+}
